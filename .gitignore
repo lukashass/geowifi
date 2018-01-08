@@ -1,0 +1,5 @@
+server/config.php
+server/coords.txt
+server/error.txt
+client/config.sh
+client/geoparse.json
